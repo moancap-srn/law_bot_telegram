@@ -34,6 +34,6 @@
 Установка
 
 1. Склонируй репозиторий:
-bash
+```bash
 git clone https://github.com/moancap-srn/law_bot_telegram.git
 cd law_bot_telegram
