@@ -1,26 +1,3 @@
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-venv/
-env/
-ENV/
+<<<<<<< HEAD
 
-.env
-*.secret
-
-*.db
-*.sqlite
-*.sqlite3
-
-*.log
-
-.idea/
-.vscode/
-*.swp
-*.swo
-*.sublime-*
-
-.DS_Store
-Thumbs.db
+>>>>>>> 9a0b6f9b8f790330f40c97c7d78976badd393c6e
